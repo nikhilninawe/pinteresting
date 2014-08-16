@@ -1,5 +1,7 @@
 
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
+
 
 $font-family-sans-serif:                'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $navbar-height:                                        45px;
@@ -10,6 +12,7 @@ $body-bg: #ecf0f1;
 $jumbotron-bg :#bdc3c7;
 $navbar-default-link-color : white;
 $navbar-default-bg : #16a085;
+// @icon-font-path: "fonts/";
 
 .center {
      text-align: center;
